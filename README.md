@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 😄 I work in Huawei #FF0000
-- 💬 I'm jearning Java
+- 💬 I’m currently learning  Java
 - 📫 My telegram - @vvaler0n
 
 <!--
