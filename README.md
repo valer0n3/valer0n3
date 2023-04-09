@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 😄 I work in Huawei #FF0000
+- 💬 I'm jearning Java
+- 📫 My telegram - @vvaler0n
 
 <!--
 **valer0n3/valer0n3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
